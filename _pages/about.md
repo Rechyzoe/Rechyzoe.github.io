@@ -25,10 +25,6 @@ latest_posts:
   limit: 3
 ---
 
-I am a public health researcher in the Department of Population Health Sciences at the University of Wisconsin–Madison.
+Rachel Inyangetuk is a Ph.D. student in the Epidemiology program in the Department of Population Health Sciences at the University of Wisconsin–Madison. She holds a Bachelor of Pharmacy from the University of Uyo, Nigeria and an M.Sc. in Public Health from Umeå University, Sweden. Her research is dedicated to improving health outcomes for women with ovarian, breast, and cervical cancers. Rachel is driven by a commitment to addressing health disparities across the cancer continuum.
 
-My research focuses on **patient-centered outcomes in cancer care** — the outcomes that matter most to patients themselves, such as functional status, cognition, nutrition, quality of life, and satisfaction with care. I am currently working on a systematic review of the impacts of cancer treatment on patient-centered outcomes among older women with ovarian cancer.
-
-More broadly, I am interested in cancer epidemiology, geriatric oncology, and health disparities. My published work spans social inequalities in self-rated health in Sweden, hypertension prevalence and risk factors in Mauritius, and cervical cancer screening and HPV self-sampling among Vietnamese American women.
-
-You can find my publications on [Google Scholar](https://scholar.google.com/citations?user=e2p5X_cAAAAJ) and my work on [GitHub](https://github.com/Rechyzoe).
+You can find my publications on [Google Scholar](https://scholar.google.com/citations?user=e2p5X_cAAAAJ).
